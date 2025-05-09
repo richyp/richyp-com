@@ -3,5 +3,5 @@
 </script>
 
 About
-
+----
 <a href="{base}/">Home</a>
